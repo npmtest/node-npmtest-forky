@@ -79,7 +79,8 @@
     "scripts": {
         "test": "make"
     },
-    "version": "0.3.0"
+    "version": "0.3.0",
+    "bin": {}
 }
 ```
 
